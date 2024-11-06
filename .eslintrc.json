@@ -1,15 +1,14 @@
-{
-  "extends": [
-    "next/core-web-vitals",
-    "plugin:tailwindcss/recommended",
-    "prettier"
-  ],
-  "plugins": ["prettier", "tailwindcss"],
-  "rules": {
-    "prettier/prettier": "error",
-    "tailwindcss/no-custom-classname": "off",
-    "tailwindcss/classnames-order": "warn",
-    "react/jsx-sort-props": ["warn", { "ignoreCase": true }],
-    "react/prop-types": "off"
-  }
-}
+// {
+//   "extends": [
+//     "next/core-web-vitals",
+//     "plugin:tailwindcss/recommended",
+//     "prettier"
+//   ],
+//   "plugins": ["prettier", "tailwindcss"],
+//   "rules": {
+//     "tailwindcss/no-custom-classname": "off",
+//     "tailwindcss/classnames-order": "warn",
+//     "react/jsx-sort-props": ["warn", { "ignoreCase": true }],
+//     "react/prop-types": "off"
+//   }
+// }
